@@ -14,8 +14,9 @@ CONTROLS:
   - Left Click: shoot (when using the spaceship)
 
 CHOICES:
-As i am still new to unity, i decided to try to focus on exploring the field of possibilities rather than to focus on the visual experience and UX. So, instead of spending too much time creating beatiful 3D models with detailed textures, or building a pretty user interface (such as the buttons on mobile), or having a nicer variety and quality of sound effetcs, i spent more time on trying to understand some concepts such as Ray Tracing, how to define controls ( i had to change in the middle of the project as i was using the old input system. Switching to the new one has been a bit of a hassle...)
-Adding the possibility to use the spaceship and fire ennemies with it was also a way for me to explore possibilities and learn more, even though it didn't add much to the game at this stage.
+As i am still new to unity, i decided to focus on exploring the field of possibilities rather than focusing on the UX. 
+So, instead of spending too much time creating nicer 3D models with detailed textures, or building a pretty user interface (such as the buttons on mobile), or having a nicer variety and quality of sound effetcs, i spent more time on trying to understand some concepts.
+Adding the possibility to use the spaceship and fire ennemies with it was also a way for me to explore possibilities and learn more, even though it doesn't add much to the game at this stage.
 Instead of having a fun or pretty game to play, i decided to try to reach for a game with more possibilities. Now that i know how to paint assets on a surface, how to switch player and telport player (by using the spaceship) and interact with items and collision boxes, i believe that i have a good small toolbox and that adding more planets, with a better environment and better graphics etc... could be easily be improved with time.
 
 NON EXHAUSTIVE LIST OF IMPROVMENTS TO BE DONE:
